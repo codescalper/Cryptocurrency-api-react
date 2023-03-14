@@ -1,4 +1,6 @@
 import React from 'react'
+import "./Coin.css";
+
 
 const Coinitem = (props) => {
   return (
