@@ -1,7 +1,7 @@
 import React from "react";
 import "./Coins.css";
 
-const Coinitem = (props) => {
+const CoinItem = (props) => {
   return (
     <div className="coin-row">
       <p>{props.coins.market_cap_rank}</p>
@@ -19,4 +19,4 @@ const Coinitem = (props) => {
   );
 };
 
-export default Coinitem;
+export default CoinItem;
