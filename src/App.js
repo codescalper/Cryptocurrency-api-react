@@ -27,6 +27,7 @@ function App() {
   return (
     <>
       <Navbar />
+
       <Routes>
         <Route path="/" element={<Coins coins={coins} />} />
         <Route path="/coin" element={<Coin />}>
@@ -34,7 +35,6 @@ function App() {
         </Route>
       </Routes>
       <Footer />
-
     </>
   );
 }
