@@ -51,7 +51,7 @@ npm install</code></pre>
 		<li>Axios</li>
 		<li>CoinGecko API</li>
 	</ul>
-	<p>Note: This application is for educational purposes only and should not be used for financial advice.</p>
+<!-- 	<p></p> -->
 	<h2>Issues and Contributions</h2>
 	<p>Feel free to contribute to this project and raise issues on the <a href="https://github.com/codescalper/Cryptocurrency-api-react/issues">GitHub repository</a>.</p>
 	<h2>Social Links</h2>
